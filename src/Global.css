@@ -1,0 +1,22 @@
+/* global.css */
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: white;
+  color: #000;
+  margin-top: -12%;
+  padding-bottom: 0px;
+  height: 400px;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+.home-container {
+  padding: 50px;
+  text-align: center;
+}
+.about {
+  padding: 0px;
+  margin: 0px;
+  justify-content: center !important;
+}
+/* Add more styles as needed */

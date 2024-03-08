@@ -1,0 +1,11 @@
+/*.about {*/
+/*  text-align: center; !* This centers the text *!*/
+/*}*/
+
+.about p {
+  margin-bottom: 1em; /* This adds space below each paragraph */
+}
+
+.about p:not(:last-child) {
+  /*border-bottom: 1px solid #ccc; !* This adds a line after each paragraph except the last one *!*/
+}
